@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Basic working flow test for Steam</description>
+   <name>Basic Steam</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdcc0f2f-7718-4f0e-9438-6be726a883d3</testCaseGuid>
+</TestCaseEntity>

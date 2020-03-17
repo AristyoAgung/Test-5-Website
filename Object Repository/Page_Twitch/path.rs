@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>54d05337-6b84-4dac-88d6-357d4484d8ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M5 7a5 5 0 116.192 4.857A2 2 0 0013 13h1a3 3 0 013 3v2h-2v-2a1 1 0 00-1-1h-1a3.99 3.99 0 01-3-1.354A3.99 3.99 0 017 15H6a1 1 0 00-1 1v2H3v-2a3 3 0 013-3h1a2 2 0 001.808-1.143A5.002 5.002 0 015 7zm5 3a3 3 0 110-6 3 3 0 010 6z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;tw-absolute tw-bottom-0 tw-flex tw-flex-column tw-flex-nowrap tw-left-0 tw-overflow-hidden tw-right-0 tw-top-0&quot;]/div[@class=&quot;tw-flex tw-flex-column tw-flex-nowrap tw-full-height&quot;]/nav[@class=&quot;top-nav tw-flex-shrink-0&quot;]/div[@class=&quot;top-nav__menu tw-align-items-stretch tw-c-background-base tw-elevation-1 tw-flex tw-flex-nowrap tw-full-height&quot;]/div[@class=&quot;tw-align-items-center tw-flex tw-flex-grow-1 tw-flex-shrink-1 tw-full-width tw-justify-content-end&quot;]/div[@class=&quot;tw-flex tw-full-height tw-mg-r-1 tw-pd-y-1&quot;]/div[@class=&quot;tw-flex tw-flex-nowrap&quot;]/div[@class=&quot;tw-align-items-stretch tw-flex tw-flex-grow-1 tw-full-height tw-pd-l-05 tw-relative&quot;]/div[@class=&quot;tw-relative&quot;]/div[1]/button[@class=&quot;tw-align-items-center tw-align-middle tw-border-bottom-left-radius-medium tw-border-bottom-right-radius-medium tw-border-top-left-radius-medium tw-border-top-right-radius-medium tw-button-icon tw-core-button tw-inline-flex tw-interactive tw-justify-content-center tw-overflow-hidden tw-relative&quot;]/span[@class=&quot;tw-button-icon__icon&quot;]/div[1]/div[@class=&quot;tw-align-items-center tw-full-width tw-icon tw-icon--fill tw-inline-flex&quot;]/div[@class=&quot;tw-aspect tw-aspect--align-top&quot;]/svg[@class=&quot;tw-icon__svg&quot;]/g[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

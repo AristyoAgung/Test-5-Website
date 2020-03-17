@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Basic working flow test for Github</description>
+   <name>Basic Github</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d549619-c798-4916-91fb-d58ad8f6320b</testCaseGuid>
+</TestCaseEntity>
